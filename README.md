@@ -6,5 +6,5 @@ In this project, we focus on building a PyTorch Dataset class and implementing a
 
 **For obtaining the training loss:** ``run the train.py script``
 
-**For obtaining the test actual precision:** ``run the test.py script``
+**For obtaining the test average precision:** ``run the test.py script``
 
